@@ -1,0 +1,14 @@
+G:\CsharpStr\bin\Debug\CsharpStr.exe.config
+G:\CsharpStr\bin\Debug\CsharpStr.exe
+G:\CsharpStr\bin\Debug\CsharpStr.pdb
+G:\CsharpStr\obj\Debug\CsharpStr.csproj.AssemblyReference.cache
+G:\CsharpStr\obj\Debug\CsharpStr.Properties.Resources.resources
+G:\CsharpStr\obj\Debug\CsharpStr.csproj.GenerateResource.cache
+G:\CsharpStr\obj\Debug\CsharpStr.csproj.CoreCompileInputs.cache
+G:\CsharpStr\obj\Debug\CsharpStr.exe
+G:\CsharpStr\obj\Debug\CsharpStr.pdb
+G:\CsharpStr\obj\Debug\CsharpStr.Form1.resources
+G:\CsharpStr\bin\Debug\CsharpStr.exe.manifest
+G:\CsharpStr\bin\Debug\CsharpStr.application
+G:\CsharpStr\obj\Debug\CsharpStr.exe.manifest
+G:\CsharpStr\obj\Debug\CsharpStr.application
